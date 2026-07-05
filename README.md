@@ -25,19 +25,34 @@ pengembalian buku.
 - 📄 Laporan PDF
 - 🔍 Pencarian Global
 
-- ## 🖼️ Screenshot
+## 🖼️ Screenshot
 
-### Dashboard
-![Dashboard](images/dashboard.png)
+### 🔐 Login
+![Login](Screenshot/127.0.0.1_8000_login.png)
 
-### Data Buku
-![Buku](images/buku.png)
+### 📊 Dashboard
+![Dashboard](Screenshot/127.0.0.1_8000_dashboard.png)
 
-### Data Anggota
-![Anggota](images/anggota.png)
+### 📚 Data Buku
+![Data Buku](Screenshot/127.0.0.1_8000_buku.png)
 
-### Transaksi
-![Transaksi](images/transaksi.png)
+### 👥 Data Anggota
+![Data Anggota](Screenshot/127.0.0.1_8000_anggota.png)
+
+### 🔄 Data Transaksi
+![Data Transaksi](Screenshot/127.0.0.1_8000_transaksi.png)
+
+### ➕ Form Peminjaman Buku
+![Form Peminjaman](Screenshot/127.0.0.1_8000_transaksi_create.png)
+
+### 📄 Laporan Transaksi
+![Laporan Transaksi](Screenshot/127.0.0.1_8000_transaksi_laporan.png)
+
+### 🔍 Pencarian Data
+![Pencarian](Screenshot/127.0.0.1_8000_search_q=Ahmad+Dhani.png)
+
+### 👤 Profil Pengguna
+![Profil](Screenshot/127.0.0.1_8000_profile.png)
 
 ## ⚙️ Instalasi
 
