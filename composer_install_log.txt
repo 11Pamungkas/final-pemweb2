@@ -1,0 +1,863 @@
+﻿composer.bat : Running 2.9.7 (2026-04-14 13:31:52) with PHP 8.3.26 on Windows 
+NT / 10.0
+At line:1 char:1
++ & 'C:\ProgramData\ComposerSetup\bin\composer.bat' require barryvdh/la ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Running 2.9.7 (...ndows NT / 10.0 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Reading ./composer.json (C:\laragon\www\perpustakaan\composer.json)
+Loading config file ./composer.json (C:\laragon\www\perpustakaan\composer.json)
+Checked CA file /etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem does not 
+exist or it is not a file.
+Checked directory /etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem does not 
+exist or it is not a directory.
+Checked CA file /etc/pki/tls/certs/ca-bundle.crt does not exist or it is not a 
+file.
+Checked directory /etc/pki/tls/certs/ca-bundle.crt does not exist or it is not 
+a directory.
+Checked CA file /etc/ssl/certs/ca-certificates.crt does not exist or it is not 
+a file.
+Checked directory /etc/ssl/certs/ca-certificates.crt does not exist or it is 
+not a directory.
+Checked CA file /etc/ssl/ca-bundle.pem does not exist or it is not a file.
+Checked directory /etc/ssl/ca-bundle.pem does not exist or it is not a 
+directory.
+Checked CA file /usr/ssl/certs/ca-bundle.crt does not exist or it is not a 
+file.
+Checked directory /usr/ssl/certs/ca-bundle.crt does not exist or it is not a 
+directory.
+Checked CA file /opt/local/share/curl/curl-ca-bundle.crt does not exist or it 
+is not a file.
+Checked directory /opt/local/share/curl/curl-ca-bundle.crt does not exist or 
+it is not a directory.
+Checked CA file /usr/local/share/curl/curl-ca-bundle.crt does not exist or it 
+is not a file.
+Checked directory /usr/local/share/curl/curl-ca-bundle.crt does not exist or 
+it is not a directory.
+Checked CA file /usr/share/ssl/certs/ca-bundle.crt does not exist or it is not 
+a file.
+Checked directory /usr/share/ssl/certs/ca-bundle.crt does not exist or it is 
+not a directory.
+Checked CA file /etc/ssl/cert.pem does not exist or it is not a file.
+Checked directory /etc/ssl/cert.pem does not exist or it is not a directory.
+Checked CA file /usr/local/etc/openssl/cert.pem does not exist or it is not a 
+file.
+Checked directory /usr/local/etc/openssl/cert.pem does not exist or it is not 
+a directory.
+Checked CA file /usr/local/etc/openssl@1.1/cert.pem does not exist or it is 
+not a file.
+Checked directory /usr/local/etc/openssl@1.1/cert.pem does not exist or it is 
+not a directory.
+Checked CA file /opt/homebrew/etc/openssl@3/cert.pem does not exist or it is 
+not a file.
+Checked directory /opt/homebrew/etc/openssl@3/cert.pem does not exist or it is 
+not a directory.
+Checked CA file /opt/homebrew/etc/openssl@1.1/cert.pem does not exist or it is 
+not a file.
+Checked directory /opt/homebrew/etc/openssl@1.1/cert.pem does not exist or it 
+is not a directory.
+Checked CA file /etc/pki/tls/certs does not exist or it is not a file.
+Checked directory /etc/pki/tls/certs does not exist or it is not a directory.
+Checked CA file /etc/ssl/certs does not exist or it is not a file.
+Checked directory /etc/ssl/certs does not exist or it is not a directory.
+Checked CA file C:\Users\HP\AppData\Local\Temp\ope922F.tmp: valid
+Executing command (CWD): git --version
+Executing command (C:\laragon\www\perpustakaan): git branch -a --no-color 
+--no-abbrev -v
+Failed to initialize global composer: Composer could not find the config file: 
+D:\Composer/composer.json
+
+Reading C:\laragon\www\perpustakaan/vendor/composer/installed.json 
+(C:\laragon\www\perpustakaan\vendor\composer\installed.json)
+Reading D:\Composer\cache/repo/https---repo.packagist.org/packages.json from 
+cache
+Downloading https://repo.packagist.org/packages.json if modified
+[304] https://repo.packagist.org/packages.json
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-barryvdh~lar
+avel-dompdf.json from cache
+Downloading https://repo.packagist.org/p2/barryvdh/laravel-dompdf.json if 
+modified
+[304] https://repo.packagist.org/p2/barryvdh/laravel-dompdf.json
+./composer.json has been updated
+Reading ./composer.json (C:\laragon\www\perpustakaan\composer.json)
+Loading config file ./composer.json (C:\laragon\www\perpustakaan\composer.json)
+Executing command (C:\laragon\www\perpustakaan): git branch -a --no-color 
+--no-abbrev -v
+Failed to initialize global composer: Composer could not find the config file: 
+D:\Composer/composer.json
+
+Reading C:\laragon\www\perpustakaan/vendor/composer/installed.json 
+(C:\laragon\www\perpustakaan\vendor\composer\installed.json)
+Running composer update barryvdh/laravel-dompdf
+Reading ./composer.lock (C:\laragon\www\perpustakaan\composer.lock)
+Loading composer repositories with package information
+Reading D:\Composer\cache/repo/https---repo.packagist.org/packages.json from 
+cache
+Downloading https://repo.packagist.org/packages.json if modified
+[304] https://repo.packagist.org/packages.json
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-barryvdh~lar
+avel-dompdf.json from cache
+Downloading https://repo.packagist.org/p2/barryvdh/laravel-dompdf.json if 
+modified
+[304] https://repo.packagist.org/p2/barryvdh/laravel-dompdf.json
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phenx~php-fo
+nt-lib.json from cache
+Downloading https://repo.packagist.org/p2/phenx/php-font-lib.json if modified
+[304] https://repo.packagist.org/p2/phenx/php-font-lib.json
+Built pool.
+Running security advisory pool filter.
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-barryvdh~lar
+avel-dompdf.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phenx~php-fo
+nt-lib.json from cache
+Running pool optimizer.
+Pool optimizer completed in 0.033 seconds
+Found 249 package versions referenced in your dependency graph. 19 (8%) were optimized away.
+Updating dependencies
+Generating rules
+Resolving dependencies through SAT
+Looking at all rules.
+
+Dependency resolution completed in 0.003 seconds
+Analyzed 230 packages to resolve dependencies
+Analyzed 543 rules to resolve dependencies
+Nothing to modify in lock file
+Generating rules
+Resolving dependencies through SAT
+Looking at all rules.
+
+Dependency resolution completed in 0.010 seconds
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Reading ./composer.lock (C:\laragon\www\perpustakaan\composer.lock)
+Nothing to install, update or remove
+Generating optimized autoload files
+> post-autoload-dump: Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> post-autoload-dump: @php artisan package:discover --ansi
+Executing command (CWD): C:\laragon\bin\php\php-8.3.26-Win32-vs16-x64\php.exe 
+-d allow_url_fopen=1 -d disable_functions="" -d memory_limit=1536M artisan 
+package:discover --ansi
+
+ INFO Discovering packages. 
+
+ barryvdh/laravel-dompdf .. DONE
+ laravel/breeze .. DONE
+ laravel/pail .. DONE
+ laravel/pao .. DONE
+ laravel/tinker .. DONE
+ maatwebsite/excel .. DONE
+ nesbot/carbon .. DONE
+ nunomaduro/collision .. DONE
+ nunomaduro/termwind .. DONE
+
+85 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+> post-update-cmd: @php artisan vendor:publish --tag=laravel-assets --ansi 
+--force
+Executing command (CWD): C:\laragon\bin\php\php-8.3.26-Win32-vs16-x64\php.exe 
+-d allow_url_fopen=1 -d disable_functions="" -d memory_limit=1536M artisan 
+vendor:publish --tag=laravel-assets --ansi --force
+
+ INFO No publishable resources for tag [laravel-assets]. 
+
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-barryvdh~lar
+avel-dompdf.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-brick~math.json 
+from cache
+Downloading https://repo.packagist.org/p2/brick/math.json if modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-carbonphp~ca
+rbon-doctrine-types.json from cache
+Downloading https://repo.packagist.org/p2/carbonphp/carbon-doctrine-types.json 
+if modified
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-composer~pcre.json 
+from cache
+Downloading https://repo.packagist.org/p2/composer/pcre.json if modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-composer~sem
+ver.json from cache
+Downloading https://repo.packagist.org/p2/composer/semver.json if modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-dflydev~dot-
+access-data.json from cache
+Downloading https://repo.packagist.org/p2/dflydev/dot-access-data.json if 
+modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-doctrine~inf
+lector.json from cache
+Downloading https://repo.packagist.org/p2/doctrine/inflector.json if modified
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-doctrine~lexer.json 
+from cache
+Downloading https://repo.packagist.org/p2/doctrine/lexer.json if modified
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-dompdf~dompdf.json 
+from cache
+Downloading https://repo.packagist.org/p2/dompdf/dompdf.json if modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-dompdf~php-f
+ont-lib.json from cache
+Downloading https://repo.packagist.org/p2/dompdf/php-font-lib.json if modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-dompdf~php-s
+vg-lib.json from cache
+Downloading https://repo.packagist.org/p2/dompdf/php-svg-lib.json if modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-dragonmantan
+k~cron-expression.json from cache
+Downloading https://repo.packagist.org/p2/dragonmantank/cron-expression.json 
+if modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-egulias~emai
+l-validator.json from cache
+Downloading https://repo.packagist.org/p2/egulias/email-validator.json if 
+modified
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-ezyang~htmlp
+urifier.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-fakerphp~faker.json 
+from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-filp~whoops.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-fruitcake~ph
+p-cors.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-graham-campb
+ell~result-type.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-guzzlehttp~g
+uzzle.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-guzzlehttp~p
+romises.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-guzzlehttp~p
+sr7.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-guzzlehttp~u
+ri-template.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-hamcrest~ham
+crest-php.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~agen
+t-detector.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~breeze.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~fram
+ework.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~pail.json 
+from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~pao.json 
+from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~pint.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~prom
+pts.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~seri
+alizable-closure.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~tinker.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-league~commo
+nmark.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-league~config.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-league~flysy
+stem.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-league~flysy
+stem-local.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-league~mime-
+type-detection.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-league~uri.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-league~uri-i
+nterfaces.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-maatwebsite~
+excel.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-maennchen~zi
+pstream-php.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-markbaker~co
+mplex.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-markbaker~ma
+trix.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-masterminds~
+html5.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-mockery~mock
+ery.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-monolog~mono
+log.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-myclabs~deep
+-copy.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-nesbot~carbon.json 
+from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-nette~schema.json 
+from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-nette~utils.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-nikic~php-pa
+rser.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-nunomaduro~c
+ollision.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-nunomaduro~t
+ermwind.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phar-io~mani
+fest.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phar-io~vers
+ion.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpoffice~ph
+pspreadsheet.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpoption~ph
+poption.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpunit~php-
+code-coverage.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpunit~php-
+file-iterator.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpunit~php-
+invoker.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpunit~php-
+text-template.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpunit~php-
+timer.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-phpunit~phpu
+nit.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~clock.json from 
+cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~container.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~event-di
+spatcher.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~http-cli
+ent.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~http-fac
+tory.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~http-mes
+sage.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~log.json from 
+cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~simple-c
+ache.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-psy~psysh.json from 
+cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-ralouphie~ge
+tallheaders.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-ramsey~colle
+ction.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-ramsey~uuid.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sabberworm~p
+hp-css-parser.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~cl
+i-parser.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~co
+mparator.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~co
+mplexity.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~diff.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~en
+vironment.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~ex
+porter.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~gl
+obal-state.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~li
+nes-of-code.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~ob
+ject-enumerator.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~ob
+ject-reflector.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~re
+cursion-context.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~type.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-sebastian~ve
+rsion.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-staabm~side-
+effects-detector.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~clock.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~cons
+ole.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~css-
+selector.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~depr
+ecation-contracts.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~erro
+r-handler.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~even
+t-dispatcher.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~even
+t-dispatcher-contracts.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~finder.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~http
+-foundation.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~http
+-kernel.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~mailer.json 
+from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~mime.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-ctype.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-intl-grapheme.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-intl-idn.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-intl-normalizer.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-mbstring.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php80.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php83.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php84.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php85.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php86.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-uuid.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~proc
+ess.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~rout
+ing.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~serv
+ice-contracts.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~string.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~tran
+slation.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~tran
+slation-contracts.json from cache
+Reading 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~uid.json 
+from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~var-
+dumper.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-thecodingmac
+hine~safe.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-theseer~toke
+nizer.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-tijsverkoyen
+~css-to-inline-styles.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-vlucas~phpdo
+tenv.json from cache
+Reading D:\Composer\cache/repo/https---repo.packagist.org/provider-voku~portabl
+e-ascii.json from cache
+[304] https://repo.packagist.org/p2/brick/math.json
+[304] https://repo.packagist.org/p2/carbonphp/carbon-doctrine-types.json
+[200] https://repo.packagist.org/p2/composer/pcre.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-composer~pcre.json 
+into cache
+[200] https://repo.packagist.org/p2/composer/semver.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-composer~sem
+ver.json into cache
+[304] https://repo.packagist.org/p2/dflydev/dot-access-data.json
+[304] https://repo.packagist.org/p2/doctrine/inflector.json
+Downloading https://repo.packagist.org/p2/ezyang/htmlpurifier.json if modified
+Downloading https://repo.packagist.org/p2/fakerphp/faker.json if modified
+Downloading https://repo.packagist.org/p2/filp/whoops.json if modified
+Downloading https://repo.packagist.org/p2/fruitcake/php-cors.json if modified
+Downloading https://repo.packagist.org/p2/graham-campbell/result-type.json if 
+modified
+Downloading https://repo.packagist.org/p2/guzzlehttp/guzzle.json if modified
+[304] https://repo.packagist.org/p2/doctrine/lexer.json
+[304] https://repo.packagist.org/p2/dompdf/dompdf.json
+[304] https://repo.packagist.org/p2/dompdf/php-font-lib.json
+[304] https://repo.packagist.org/p2/dompdf/php-svg-lib.json
+[304] https://repo.packagist.org/p2/dragonmantank/cron-expression.json
+[304] https://repo.packagist.org/p2/egulias/email-validator.json
+Downloading https://repo.packagist.org/p2/guzzlehttp/promises.json if modified
+Downloading https://repo.packagist.org/p2/guzzlehttp/psr7.json if modified
+Downloading https://repo.packagist.org/p2/guzzlehttp/uri-template.json if 
+modified
+Downloading https://repo.packagist.org/p2/hamcrest/hamcrest-php.json if 
+modified
+Downloading https://repo.packagist.org/p2/laravel/agent-detector.json if 
+modified
+Downloading https://repo.packagist.org/p2/laravel/breeze.json if modified
+[304] https://repo.packagist.org/p2/ezyang/htmlpurifier.json
+[304] https://repo.packagist.org/p2/filp/whoops.json
+[200] https://repo.packagist.org/p2/fruitcake/php-cors.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-fruitcake~ph
+p-cors.json into cache
+[304] https://repo.packagist.org/p2/graham-campbell/result-type.json
+[200] https://repo.packagist.org/p2/guzzlehttp/guzzle.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-guzzlehttp~g
+uzzle.json into cache
+Downloading https://repo.packagist.org/p2/laravel/framework.json if modified
+Downloading https://repo.packagist.org/p2/laravel/pail.json if modified
+Downloading https://repo.packagist.org/p2/laravel/pao.json if modified
+Downloading https://repo.packagist.org/p2/laravel/pint.json if modified
+Downloading https://repo.packagist.org/p2/laravel/prompts.json if modified
+[200] https://repo.packagist.org/p2/fakerphp/faker.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-fakerphp~faker.json 
+into cache
+[304] https://repo.packagist.org/p2/guzzlehttp/promises.json
+[200] https://repo.packagist.org/p2/guzzlehttp/psr7.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-guzzlehttp~p
+sr7.json into cache
+[200] https://repo.packagist.org/p2/guzzlehttp/uri-template.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-guzzlehttp~u
+ri-template.json into cache
+[304] https://repo.packagist.org/p2/hamcrest/hamcrest-php.json
+[304] https://repo.packagist.org/p2/laravel/agent-detector.json
+[304] https://repo.packagist.org/p2/laravel/breeze.json
+Downloading https://repo.packagist.org/p2/laravel/serializable-closure.json if 
+modified
+Downloading https://repo.packagist.org/p2/laravel/tinker.json if modified
+Downloading https://repo.packagist.org/p2/league/commonmark.json if modified
+Downloading https://repo.packagist.org/p2/league/config.json if modified
+Downloading https://repo.packagist.org/p2/league/flysystem.json if modified
+Downloading https://repo.packagist.org/p2/league/flysystem-local.json if 
+modified
+Downloading https://repo.packagist.org/p2/league/mime-type-detection.json if 
+modified
+[304] https://repo.packagist.org/p2/laravel/serializable-closure.json
+Downloading https://repo.packagist.org/p2/league/uri.json if modified
+[200] https://repo.packagist.org/p2/laravel/framework.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~fram
+ework.json into cache
+[304] https://repo.packagist.org/p2/laravel/pail.json
+[200] https://repo.packagist.org/p2/laravel/pao.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~pao.json 
+into cache
+[304] https://repo.packagist.org/p2/laravel/pint.json
+[200] https://repo.packagist.org/p2/laravel/prompts.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-laravel~prom
+pts.json into cache
+[304] https://repo.packagist.org/p2/laravel/tinker.json
+[304] https://repo.packagist.org/p2/league/commonmark.json
+[200] https://repo.packagist.org/p2/league/config.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-league~config.json 
+into cache
+[200] https://repo.packagist.org/p2/league/flysystem-local.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-league~flysy
+stem-local.json into cache
+[304] https://repo.packagist.org/p2/league/mime-type-detection.json
+Downloading https://repo.packagist.org/p2/league/uri-interfaces.json if 
+modified
+Downloading https://repo.packagist.org/p2/maatwebsite/excel.json if modified
+Downloading https://repo.packagist.org/p2/maennchen/zipstream-php.json if 
+modified
+Downloading https://repo.packagist.org/p2/markbaker/complex.json if modified
+Downloading https://repo.packagist.org/p2/markbaker/matrix.json if modified
+Downloading https://repo.packagist.org/p2/masterminds/html5.json if modified
+Downloading https://repo.packagist.org/p2/mockery/mockery.json if modified
+Downloading https://repo.packagist.org/p2/monolog/monolog.json if modified
+Downloading https://repo.packagist.org/p2/myclabs/deep-copy.json if modified
+Downloading https://repo.packagist.org/p2/nesbot/carbon.json if modified
+[200] https://repo.packagist.org/p2/league/flysystem.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-league~flysy
+stem.json into cache
+[304] https://repo.packagist.org/p2/league/uri.json
+Downloading https://repo.packagist.org/p2/nette/schema.json if modified
+Downloading https://repo.packagist.org/p2/nette/utils.json if modified
+[304] https://repo.packagist.org/p2/league/uri-interfaces.json
+[304] https://repo.packagist.org/p2/maennchen/zipstream-php.json
+[304] https://repo.packagist.org/p2/markbaker/complex.json
+[200] https://repo.packagist.org/p2/markbaker/matrix.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-markbaker~ma
+trix.json into cache
+[304] https://repo.packagist.org/p2/masterminds/html5.json
+[304] https://repo.packagist.org/p2/mockery/mockery.json
+[200] https://repo.packagist.org/p2/monolog/monolog.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-monolog~mono
+log.json into cache
+[200] https://repo.packagist.org/p2/myclabs/deep-copy.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-myclabs~deep
+-copy.json into cache
+[304] https://repo.packagist.org/p2/nesbot/carbon.json
+Downloading https://repo.packagist.org/p2/nikic/php-parser.json if modified
+Downloading https://repo.packagist.org/p2/nunomaduro/collision.json if modified
+Downloading https://repo.packagist.org/p2/nunomaduro/termwind.json if modified
+Downloading https://repo.packagist.org/p2/phar-io/manifest.json if modified
+Downloading https://repo.packagist.org/p2/phar-io/version.json if modified
+Downloading https://repo.packagist.org/p2/phpoffice/phpspreadsheet.json if 
+modified
+Downloading https://repo.packagist.org/p2/phpoption/phpoption.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-code-coverage.json if 
+modified
+Downloading https://repo.packagist.org/p2/phpunit/php-file-iterator.json if 
+modified
+[200] https://repo.packagist.org/p2/maatwebsite/excel.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-maatwebsite~
+excel.json into cache
+[304] https://repo.packagist.org/p2/nette/schema.json
+[304] https://repo.packagist.org/p2/nette/utils.json
+Downloading https://repo.packagist.org/p2/phpunit/php-invoker.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-text-template.json if 
+modified
+Downloading https://repo.packagist.org/p2/phpunit/php-timer.json if modified
+[200] https://repo.packagist.org/p2/nikic/php-parser.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-nikic~php-pa
+rser.json into cache
+[304] https://repo.packagist.org/p2/nunomaduro/collision.json
+[200] https://repo.packagist.org/p2/nunomaduro/termwind.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-nunomaduro~t
+ermwind.json into cache
+[304] https://repo.packagist.org/p2/phar-io/manifest.json
+[304] https://repo.packagist.org/p2/phar-io/version.json
+[304] https://repo.packagist.org/p2/phpoffice/phpspreadsheet.json
+[200] https://repo.packagist.org/p2/phpoption/phpoption.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-phpoption~ph
+poption.json into cache
+[304] https://repo.packagist.org/p2/phpunit/php-code-coverage.json
+[304] https://repo.packagist.org/p2/phpunit/php-file-iterator.json
+Downloading https://repo.packagist.org/p2/phpunit/phpunit.json if modified
+Downloading https://repo.packagist.org/p2/psr/clock.json if modified
+Downloading https://repo.packagist.org/p2/psr/container.json if modified
+Downloading https://repo.packagist.org/p2/psr/event-dispatcher.json if modified
+Downloading https://repo.packagist.org/p2/psr/http-client.json if modified
+Downloading https://repo.packagist.org/p2/psr/http-factory.json if modified
+Downloading https://repo.packagist.org/p2/psr/http-message.json if modified
+Downloading https://repo.packagist.org/p2/psr/log.json if modified
+Downloading https://repo.packagist.org/p2/psr/simple-cache.json if modified
+[304] https://repo.packagist.org/p2/phpunit/php-invoker.json
+[304] https://repo.packagist.org/p2/phpunit/php-text-template.json
+[304] https://repo.packagist.org/p2/phpunit/php-timer.json
+Downloading https://repo.packagist.org/p2/psy/psysh.json if modified
+Downloading https://repo.packagist.org/p2/ralouphie/getallheaders.json if 
+modified
+Downloading https://repo.packagist.org/p2/ramsey/collection.json if modified
+[200] https://repo.packagist.org/p2/phpunit/phpunit.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-phpunit~phpu
+nit.json into cache
+[304] https://repo.packagist.org/p2/psr/clock.json
+[200] https://repo.packagist.org/p2/psr/container.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~container.json 
+into cache
+[304] https://repo.packagist.org/p2/psr/event-dispatcher.json
+[200] https://repo.packagist.org/p2/psr/http-client.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~http-cli
+ent.json into cache
+[304] https://repo.packagist.org/p2/psr/http-factory.json
+[200] https://repo.packagist.org/p2/psr/http-message.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~http-mes
+sage.json into cache
+[200] https://repo.packagist.org/p2/psr/log.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~log.json into 
+cache
+[200] https://repo.packagist.org/p2/psr/simple-cache.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-psr~simple-c
+ache.json into cache
+Downloading https://repo.packagist.org/p2/ramsey/uuid.json if modified
+Downloading https://repo.packagist.org/p2/sabberworm/php-css-parser.json if 
+modified
+Downloading https://repo.packagist.org/p2/sebastian/cli-parser.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/comparator.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/complexity.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/diff.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/environment.json if 
+modified
+Downloading https://repo.packagist.org/p2/sebastian/exporter.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/global-state.json if 
+modified
+[200] https://repo.packagist.org/p2/psy/psysh.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-psy~psysh.json into 
+cache
+[304] https://repo.packagist.org/p2/ralouphie/getallheaders.json
+[304] https://repo.packagist.org/p2/ramsey/collection.json
+Downloading https://repo.packagist.org/p2/sebastian/lines-of-code.json if 
+modified
+Downloading https://repo.packagist.org/p2/sebastian/object-enumerator.json if 
+modified
+Downloading https://repo.packagist.org/p2/sebastian/object-reflector.json if 
+modified
+[304] https://repo.packagist.org/p2/ramsey/uuid.json
+[304] https://repo.packagist.org/p2/sabberworm/php-css-parser.json
+[304] https://repo.packagist.org/p2/sebastian/cli-parser.json
+[304] https://repo.packagist.org/p2/sebastian/comparator.json
+[304] https://repo.packagist.org/p2/sebastian/complexity.json
+[304] https://repo.packagist.org/p2/sebastian/diff.json
+[304] https://repo.packagist.org/p2/sebastian/environment.json
+[304] https://repo.packagist.org/p2/sebastian/exporter.json
+[304] https://repo.packagist.org/p2/sebastian/global-state.json
+Downloading https://repo.packagist.org/p2/sebastian/recursion-context.json if 
+modified
+Downloading https://repo.packagist.org/p2/sebastian/type.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/version.json if modified
+Downloading https://repo.packagist.org/p2/staabm/side-effects-detector.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/clock.json if modified
+Downloading https://repo.packagist.org/p2/symfony/console.json if modified
+Downloading https://repo.packagist.org/p2/symfony/css-selector.json if modified
+Downloading https://repo.packagist.org/p2/symfony/deprecation-contracts.json 
+if modified
+Downloading https://repo.packagist.org/p2/symfony/error-handler.json if 
+modified
+[304] https://repo.packagist.org/p2/sebastian/lines-of-code.json
+[304] https://repo.packagist.org/p2/sebastian/object-enumerator.json
+[304] https://repo.packagist.org/p2/sebastian/object-reflector.json
+Downloading https://repo.packagist.org/p2/symfony/event-dispatcher.json if 
+modified
+Downloading 
+https://repo.packagist.org/p2/symfony/event-dispatcher-contracts.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/finder.json if modified
+[304] https://repo.packagist.org/p2/sebastian/recursion-context.json
+[304] https://repo.packagist.org/p2/sebastian/type.json
+[304] https://repo.packagist.org/p2/sebastian/version.json
+[304] https://repo.packagist.org/p2/staabm/side-effects-detector.json
+[304] https://repo.packagist.org/p2/symfony/clock.json
+[200] https://repo.packagist.org/p2/symfony/deprecation-contracts.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~depr
+ecation-contracts.json into cache
+[200] https://repo.packagist.org/p2/symfony/error-handler.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~erro
+r-handler.json into cache
+Downloading https://repo.packagist.org/p2/symfony/http-foundation.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/http-kernel.json if modified
+Downloading https://repo.packagist.org/p2/symfony/mailer.json if modified
+Downloading https://repo.packagist.org/p2/symfony/mime.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-ctype.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-grapheme.json 
+if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-idn.json if 
+modified
+[200] https://repo.packagist.org/p2/symfony/console.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~cons
+ole.json into cache
+[304] https://repo.packagist.org/p2/symfony/css-selector.json
+[200] https://repo.packagist.org/p2/symfony/event-dispatcher.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~even
+t-dispatcher.json into cache
+[200] https://repo.packagist.org/p2/symfony/event-dispatcher-contracts.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~even
+t-dispatcher-contracts.json into cache
+[200] https://repo.packagist.org/p2/symfony/finder.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~finder.json 
+into cache
+Downloading 
+https://repo.packagist.org/p2/symfony/polyfill-intl-normalizer.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-mbstring.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php80.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php83.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php84.json if 
+modified
+[200] https://repo.packagist.org/p2/symfony/polyfill-intl-idn.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-intl-idn.json into cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php85.json if 
+modified
+[200] https://repo.packagist.org/p2/symfony/http-foundation.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~http
+-foundation.json into cache
+[200] https://repo.packagist.org/p2/symfony/http-kernel.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~http
+-kernel.json into cache
+[200] https://repo.packagist.org/p2/symfony/mailer.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~mailer.json 
+into cache
+[304] https://repo.packagist.org/p2/symfony/mime.json
+[200] https://repo.packagist.org/p2/symfony/polyfill-ctype.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-ctype.json into cache
+[200] https://repo.packagist.org/p2/symfony/polyfill-intl-grapheme.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-intl-grapheme.json into cache
+[200] https://repo.packagist.org/p2/symfony/polyfill-intl-normalizer.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-intl-normalizer.json into cache
+[304] https://repo.packagist.org/p2/symfony/polyfill-mbstring.json
+[200] https://repo.packagist.org/p2/symfony/polyfill-php80.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php80.json into cache
+[200] https://repo.packagist.org/p2/symfony/polyfill-php83.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php83.json into cache
+[200] https://repo.packagist.org/p2/symfony/polyfill-php84.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php84.json into cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php86.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-uuid.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/process.json if modified
+Downloading https://repo.packagist.org/p2/symfony/routing.json if modified
+Downloading https://repo.packagist.org/p2/symfony/service-contracts.json if 
+modified
+Downloading https://repo.packagist.org/p2/symfony/string.json if modified
+Downloading https://repo.packagist.org/p2/symfony/translation.json if modified
+Downloading https://repo.packagist.org/p2/symfony/translation-contracts.json 
+if modified
+Downloading https://repo.packagist.org/p2/symfony/uid.json if modified
+Downloading https://repo.packagist.org/p2/symfony/var-dumper.json if modified
+Downloading https://repo.packagist.org/p2/thecodingmachine/safe.json if 
+modified
+[200] https://repo.packagist.org/p2/symfony/polyfill-php85.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php85.json into cache
+Downloading https://repo.packagist.org/p2/theseer/tokenizer.json if modified
+[200] https://repo.packagist.org/p2/symfony/polyfill-php86.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-php86.json into cache
+[200] https://repo.packagist.org/p2/symfony/polyfill-uuid.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~poly
+fill-uuid.json into cache
+[304] https://repo.packagist.org/p2/symfony/process.json
+[304] https://repo.packagist.org/p2/symfony/routing.json
+[200] https://repo.packagist.org/p2/symfony/service-contracts.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~serv
+ice-contracts.json into cache
+[304] https://repo.packagist.org/p2/thecodingmachine/safe.json
+Downloading 
+https://repo.packagist.org/p2/tijsverkoyen/css-to-inline-styles.json if 
+modified
+Downloading https://repo.packagist.org/p2/vlucas/phpdotenv.json if modified
+Downloading https://repo.packagist.org/p2/voku/portable-ascii.json if modified
+[200] https://repo.packagist.org/p2/symfony/string.json
+Writing 
+D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~string.json 
+into cache
+[200] https://repo.packagist.org/p2/symfony/translation.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~tran
+slation.json into cache
+[200] https://repo.packagist.org/p2/symfony/translation-contracts.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~tran
+slation-contracts.json into cache
+[304] https://repo.packagist.org/p2/symfony/uid.json
+[200] https://repo.packagist.org/p2/symfony/var-dumper.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-symfony~var-
+dumper.json into cache
+[200] https://repo.packagist.org/p2/theseer/tokenizer.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-theseer~toke
+nizer.json into cache
+[304] https://repo.packagist.org/p2/tijsverkoyen/css-to-inline-styles.json
+[200] https://repo.packagist.org/p2/vlucas/phpdotenv.json
+Writing D:\Composer\cache/repo/https---repo.packagist.org/provider-vlucas~phpdo
+tenv.json into cache
+[304] https://repo.packagist.org/p2/voku/portable-ascii.json
+Found 16 security vulnerability advisories affecting 9 packages.
+Run "composer audit" for a full list of advisories.
+Using version ^3.1 for barryvdh/laravel-dompdf
+Reading ./composer.lock (C:\laragon\www\perpustakaan\composer.lock)
